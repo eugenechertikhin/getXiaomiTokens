@@ -1,6 +1,10 @@
-# Utility to fetch tokens (and actually most info about connected devices) from Xiaomi CLoud
+# Utility to fetch tokens (and actually most info about connected devices) from Xiaomi Cloud
 
 Inspired by Piotr Machowski python solution founded in https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor
+
+## How to compile
+
+Fetch repository, run go mod tidy and build with go build
 
 ## How to run 
 

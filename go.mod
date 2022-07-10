@@ -1,3 +1,3 @@
-module github.com/MajaSuite/get_tokens
+module getXiaomiTokens
 
 go 1.17

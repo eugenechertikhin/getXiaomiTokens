@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/MajaSuite/get_tokens/cloud"
+	"github.com/MajaSuite/getXiaomiTokens/cloud"
 	"log"
 	"sort"
 	"strings"
